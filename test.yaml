@@ -1,6 +1,8 @@
 modules:
-  - name: BlinkLED
-    repo: https://github.com/xrobot-org/BlinkLED
-modules:
-  - name: BMI088
-    repo: https://github.com/xrobot-org/BMI088
+- name: BlinkLED
+  repo: https://github.com/xrobot-org/BlinkLED
+- name: BMI088
+  repo: https://github.com/xrobot-org/BMI088
+- name: MadgwickAHRS
+  repo: https://github.com/xrobot-org/MadgwickAHRS
+  
