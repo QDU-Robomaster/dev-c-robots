@@ -7,3 +7,5 @@ modules:
   repo: https://github.com/xrobot-org/MadgwickAHRS
 - name: IST8310
   repo: https://github.com/xrobot-org/IST8310
+- name: BuzzerAlarm
+  repo: https://github.com/xrobot-org/BuzzerAlarm
