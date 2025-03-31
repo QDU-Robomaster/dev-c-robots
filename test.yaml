@@ -5,4 +5,5 @@ modules:
   repo: https://github.com/xrobot-org/BMI088
 - name: MadgwickAHRS
   repo: https://github.com/xrobot-org/MadgwickAHRS
-  
+- name: IST8310
+  repo: https://github.com/xrobot-org/IST8310
