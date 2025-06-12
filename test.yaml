@@ -1,11 +1,6 @@
 modules:
-- name: BlinkLED
-  repo: https://github.com/xrobot-org/BlinkLED
-- name: BMI088
-  repo: https://github.com/xrobot-org/BMI088
-- name: MadgwickAHRS
-  repo: https://github.com/xrobot-org/MadgwickAHRS
-- name: IST8310
-  repo: https://github.com/xrobot-org/IST8310
-- name: BuzzerAlarm
-  repo: https://github.com/xrobot-org/BuzzerAlarm
+  - xrobot-org/BlinkLED
+  - xrobot-org/BMI088
+  - xrobot-org/MadgwickAHRS
+  - xrobot-org/IST8310
+  - xrobot-org/BuzzerAlarm
